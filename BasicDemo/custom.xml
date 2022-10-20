@@ -1,0 +1,8 @@
+﻿<configuration>
+	<!--<MainSetting>
+		<SubSetting>
+			This is from XML
+		</SubSetting>
+	</MainSetting>-->
+	<MainSetting SubSetting="This is also from XML "/>
+</configuration>

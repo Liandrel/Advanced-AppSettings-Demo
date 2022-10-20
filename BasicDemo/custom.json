@@ -1,0 +1,5 @@
+{
+  "MainSetting": {
+    "SubSetting": "sub-setting from custom.json file"
+    }
+  }
